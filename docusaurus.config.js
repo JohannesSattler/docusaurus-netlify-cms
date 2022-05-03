@@ -3,7 +3,7 @@ module.exports = {
   tagline: "HappyDocs",
   url: "https://happy-docs.netlify.app/",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   favicon: "img/favicon.ico",
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
